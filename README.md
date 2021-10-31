@@ -2,7 +2,7 @@
 
 Code repository for the final year project focusing on improving visual dialog by reducing modality biases.
 
-> Paper titled "Improving Image-based Dialog by Reducing Modality Biases" accompanying this project has been accepted at the [ICACDS 2021](https://icacds.com/)
+> Paper titled "Improving Image-based Dialog by Reducing Modality Biases" accompanying this project has been published in the Springer CCIS series ([View](https://link.springer.com/chapter/10.1007/978-3-030-88244-0_4))
 
 **Goal:** To develop an AI agent capable of having a conversation with users about images.
 
@@ -34,3 +34,18 @@ This project uses the [VisDial 1.0 dataset](https://visualdialog.org/data)
 - [Hrishikesh Shenai](https://www.linkedin.com/in/hrishikesh-shenai-24a32518b/)
 - [Pranjal Chitale](https://in.linkedin.com/in/pranjalchitale)
 - [Kaustubh Kekre](https://kaustubhkekre.github.io/)
+
+
+If you consider using our work then please cite using:
+
+```
+@INPROCEEDINGS{10.1007/978-3-030-88244-0_4,
+  author={Gala, Jay and Shenai, Hrishikesh and Chitale, Pranjal and Kekre, Kaustubh and Kanani, Pratik},
+  title={Improving Image-Based Dialog by Reducing Modality Biases},
+  booktitle={Advances in Computing and Data Sciences},
+  publisher={Springer International Publishing},
+  year={2021},
+  pages={33-41},
+  isbn={978-3-030-88244-0}
+}
+```
